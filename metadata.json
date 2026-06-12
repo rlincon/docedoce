@@ -1,0 +1,6 @@
+{
+  "name": "Venda de Doces e Confeitaria",
+  "description": "Um catálogo online de doces e confeitaria fina, com cardápio interativo, carrinho de compras para pedidos via WhatsApp e aba de promoções temporárias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
